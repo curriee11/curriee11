@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @curriee11
 - 👀 I’m interested in AI,ML and frontend development
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Azure Technologies 
+- 💞️ I’m looking to collaborate on Azure
 - 📫 How to reach me twitter - @KhushiA58167599
 
 <!---
