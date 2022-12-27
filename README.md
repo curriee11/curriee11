@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @curriee11
+## Hello I am Khushi Agarwal👋
+
+
+
+-  Hi, I’m @curriee11
 - 👀 I’m interested in AI,ML and frontend development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Azure Cognitive Services
