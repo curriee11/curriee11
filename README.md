@@ -1,12 +1,10 @@
 ## Hello I am Khushi Agarwal👋
 
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on azure projects
+- I am also Beta Microsoft Learn Student Ambassador
 
-
--  Hi, I’m @curriee11
-- 👀 I’m interested in AI,ML and frontend development
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Azure Cognitive Services
-- 📫 How to reach me twitter - @KhushiA58167599
 
 ## Find me here
 <a href="https://twitter.com/KhushiA58167599">Twitter</a>
