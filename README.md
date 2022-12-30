@@ -3,7 +3,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on azure projects
-- I am also Beta Microsoft Learn Student Ambassador
+- I am Beta Microsoft Learn Student Ambassador
 
 
 ## Find me here
