@@ -1,9 +1,7 @@
 ## Hello I am Khushi Agarwal👋
 
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on azure projects
-- I am Beta Microsoft Learn Student Ambassador
+- 👀 I’m interested in Web Development and Artificial Intelligence
+- I am Gold Microsoft Learn Student Ambassador
 
 
 ## Find me here
